@@ -10,4 +10,8 @@ public class git_idea05 {
         System.out.println("够了哈");
     }
 
+    public String ml() {
+       return "System.out.println";
+    }
+
 }
