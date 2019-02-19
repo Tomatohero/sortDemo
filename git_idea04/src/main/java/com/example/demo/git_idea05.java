@@ -6,6 +6,8 @@ public class git_idea05 {
         System.out.println("可以炮制");
 
         System.out.println("差不多了吧");
+
+        System.out.println("够了哈");
     }
 
 }
